@@ -8,4 +8,5 @@ c = 40
 print(b)
 print(c)
 
-input("Escreva seu nome: ")
+nome = input("Escreva seu nome: ")
+print(nome)
