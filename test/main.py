@@ -7,3 +7,5 @@ c = 40
 
 print(b)
 print(c)
+
+input("Escreva seu nome: ")
