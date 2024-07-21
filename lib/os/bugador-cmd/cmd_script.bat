@@ -1,0 +1,3 @@
+@echo off
+echo Abrindo o cmd...
+pause
